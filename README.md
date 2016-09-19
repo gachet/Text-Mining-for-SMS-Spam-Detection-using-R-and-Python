@@ -54,3 +54,18 @@ Note -- To run magic command in python, you need iPython Notebook. These magic c
 It will give syntax error.
 
 
+Following Libraries used while developing algorithm in R:
+
+library(NLP)
+
+library(tm)         ## for text mining
+
+library(SnowballC)  ## provides wordstem() function
+
+library(wordcloud)  ## for visualizing text data in the form of cloud
+
+library(e1071)      ## for naive bayes implementation
+
+library(gmodels)
+
+
