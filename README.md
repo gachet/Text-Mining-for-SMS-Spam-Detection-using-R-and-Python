@@ -11,7 +11,10 @@ This problem comes under classification problem.
 To solve this problem, there are many algorithms, but I specifically concentrated on Naive Bayes and SVM.
 
 -- First you need to convert message text into tokens
+
 -- And then apply Naive Bayes algorithm
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Following Libraries used while developing algorithm in Python
 
@@ -52,6 +55,7 @@ from sklearn.learning_curve import learning_curve
 Note -- To run magic command in python, you need iPython Notebook. These magic commands will not run on normal python. 
 It will give syntax error.
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Following Libraries used while developing algorithm in R:
 
