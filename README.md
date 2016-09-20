@@ -6,7 +6,7 @@ This folder contain algorithm for SMS - Spam detection.
 
 You can download dataset from -- https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection or Dataset is provided in this folder itself.
 
-Algorithm is written in both languages - R and Python.
+// Algorithm is written in both languages - R and Python.
 
 This problem comes under classification problem. 
 To solve this problem, there are many algorithms, but I specifically concentrated on Naive Bayes and SVM.
